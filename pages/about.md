@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include boject: Untitled design (21).png  %}
+{% include object/Untitled design (21).png  %}
 
 Orin is an actor and student. This collection builder output is made for his HUM 40 course.
 
